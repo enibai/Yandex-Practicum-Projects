@@ -1,4 +1,4 @@
-![jupyter](https://roman.ua/wp-content/uploads/2021/06/yande.pract_.logo_.png)
+![jupyter](https://m.seonews.ru/upload/iblock/f73/f73322ed95450f64df7156706fc01091.jpg)
 
 <details open>
   <summary>В рамках обучения по специальности "Аналитик данных" в Яндекс.Практикум, мной самостоятельно было выполнено 16 проектов:</summary>
@@ -36,5 +36,12 @@
  `визуализация данных`, `исследовательский анализ данных`, `предобработка данных`, `pandas`, `matplotlib`, `seaborn`, `Python`, `Jupyter Notebook`</td>
 </tr>
 
+<tr>
+  <td>4. <a href = "https://github.com/enibai/Yandex-Practicum-Projects/blob/master/1.%20Analysis%20of%20the%20behavior%20of%20music%20service%20users/1_analysis_of_the_behavior_of_music_service_users.ipynb](https://github.com/enibai/Yandex-Practicum-Projects/blob/master/4.%20Analysis%20of%20mobile%20operator%20tariff%20plans/4_analysis_of_mobile_operator_tariff_plans.ipynb">Анализ тарифных планов оператора мобильной связи</a></td>
+  <td>Федеральный оператора мобильной связи предлагает клиентам два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. Нужно сделать предварительный анализ тарифов на небольшой выборке клиентов. В моем распоряжении данные 500 пользователей: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год. Нужно проанализировать поведение клиентов и сделать вывод - какой тариф лучше.</td>
+  <td> 
+ `проверка статистических гипотез`, `описательная статистика`, `scipy`, `matplotlib`, `numpy`, `pandas`, `Python`, `Jupyter Notebook`</td>
+</tr>
+  
 </table>
 </details>
